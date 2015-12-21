@@ -77,7 +77,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://EXAMPLE/Libsamplerate.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/DomiR/Libsamplerate.git", :tag => "0.1.8" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
